@@ -1,7 +1,6 @@
 # Web3 Concert Ticket DApp - README
 
-Welcome to the **Web3 Concert Ticket DApp** project repository! This decentralized application (DApp) leverages blockchain technology to implement an Concert Ticket platform on the Ethereum network. Participants can place bids on items of interest, and the highest bidder at the end of the Concert Ticket wins the item.
-
+Welcome to the **Web3 Concert Ticket DApp** project repository! This decentralized application (DApp) leverages blockchain technology to implement an Concert Ticket platform on the Ethereum network. Participants can buy ticket of interest,create tickettype,checkout and checkin
 ## Table of Contents
 
 - [Overview](#overview)
@@ -71,7 +70,7 @@ Follow these steps to set up the project locally and start creating concert tick
 
 ## Smart Contracts
 
-The smart contracts in this project facilitate the Concert Ticket process. They handle bids, Concert Ticket creation, and winner determination. These contracts are deployed on the Ethereum blockchain.
+The smart contracts in this project facilitate the Concert Ticket process. They buy ticket of interest,create tickettype,checkout and checkin. These contracts are deployed on the Ethereum blockchain.
 
 - `ConcertTicket.sol`: Responsible for creating new ticket and purchase.
 
