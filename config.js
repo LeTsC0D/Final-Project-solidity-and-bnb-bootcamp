@@ -1,1 +1,0 @@
-export const concertTicketAddress = 0x6291098677656a2A878144A77d706A6508e39a89
