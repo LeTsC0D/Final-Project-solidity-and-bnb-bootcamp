@@ -89,6 +89,16 @@ This command will initiate the smart contract tests and display the results in t
 
 ![image](test.png)
 ![image](deploy.png)
+
+
+on BSC TESTNET
+![image](testbsc.png)
+
+
+BSC TESTNET deployed address
+0x51321b5544BeC4c0395FB923FF90b94a6c16A184
+
+
 ## Frontend
 
 The DApp frontend is built using modern web technologies including React.js. It provides an intuitive and interactive user interface for Concert Ticket participation.
