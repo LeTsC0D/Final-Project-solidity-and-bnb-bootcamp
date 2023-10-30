@@ -1,0 +1,1 @@
+export const concertTicketAddress = 0x09b252B2EE45f13e22AdDBb6F7368f9466dd8fBE
