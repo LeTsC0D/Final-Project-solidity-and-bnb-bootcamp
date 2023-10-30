@@ -1,0 +1,26 @@
+/* Define the initial styles for the card */
+.card-hover-effect {
+    transition: all 0.3s ease; /* Add a transition for smooth effect */
+  }
+  
+  /* Define the hover effect */
+  .card-hover-effect:hover {
+    transform: scale(1.20); /* Increase size on hover */
+    z-index: 1; /* Change z-index to bring the card to the front */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+  }
+
+  .bold-label {
+    font-weight: bold;
+    font-size:large;
+    width: 10vw;
+
+    
+    
+  }
+  
+  
+  
+  
+  
+  
